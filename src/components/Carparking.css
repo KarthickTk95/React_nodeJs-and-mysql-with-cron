@@ -1,0 +1,26 @@
+#parkingweb{
+    width: 98%;
+    margin-left: 9px;
+}
+#colspan{
+    text-align: center;
+}
+.form-group {
+    display: -webkit-inline-box;
+}
+#buildingDropdown {
+    display: -webkit-inline-box;
+}
+.table{
+    font-size: 11px;
+}
+.custom-datepicker {
+    width: 130px; /* Adjust the width as needed */
+  }
+  #buttonsdiv{
+    height: 100px;
+    align-content: center
+
+ }
+  
+  

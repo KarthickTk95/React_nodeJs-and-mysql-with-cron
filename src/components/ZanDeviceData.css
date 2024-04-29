@@ -1,0 +1,38 @@
+.table-container {
+    width: 99%;
+    height: 400px; /* Adjust the desired height */
+    overflow: auto;
+    margin: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .custom-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  .row{
+   
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+  }
+  #inputItems{
+    padding: 5px;
+    margin-top: 10px;
+    align-items: center;
+    height: 80px;
+    width: 99%;
+
+  }
+  p {
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  
+
+  
+ 
+  
+
+  

@@ -1,0 +1,41 @@
+/* Override Bootstrap dropdown z-index */
+.dropdown {
+    position: relative;
+  }
+  .dropdown-menu {
+    z-index: 1100 !important;
+  }
+
+  
+nav ul {
+  
+    display: flex;
+      flex-direction: row;
+      align-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      cursor: default;
+  }
+  
+  nav li.active {
+   
+    background-color: #5c5c8e;
+      padding: 2px;
+      color: white;
+      border-radius: 10px;
+  }
+  li{
+    list-style: none;
+   margin-inline: 7px;
+  }
+  nav{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 93px;
+    margin-left: 12px;
+    margin-right: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, -0.8);
+  }
