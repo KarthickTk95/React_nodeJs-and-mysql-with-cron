@@ -1,10 +1,10 @@
 const mysql = require("mysql2");
 
 const db = mysql.createConnection({
-  host: "db-read.zancompute.com",
+  host: "##############com",
   user: "karthickt",
   password: "Karthickt@123!",
-  database: "MasterDB",
+  database: "feef",
   waitForConnections: true,
   connectionLimit: 10,
   queueLimit: 0,
